@@ -48,8 +48,6 @@ Abra o seu terminal e siga os passos abaixo:
 ```bash
 git clone [https://github.com/Letrares/sistema_bancario_simplificado.git](https://github.com/Letrares/sistema_bancario_simplificado.git)
 
-# 3. Compile o ficheiro .java para gerar o .class
 javac TrabalhoGrauA.java
 
-# 4. Execute o programa compilado
 java TrabalhoGrauA
